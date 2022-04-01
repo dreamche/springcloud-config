@@ -1,2 +1,5 @@
 #总上传的数据大小
-spring.http.multipart.max-request-size=50Mb
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
