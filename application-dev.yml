@@ -1,0 +1,2 @@
+#总上传的数据大小
+spring.http.multipart.max-request-size=50Mb
